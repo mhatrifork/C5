@@ -36,7 +36,7 @@ rather poor orthogonality.
 
 Collection implementations such as array lists and linked lists have much the same
 functionality but do not implement a common interface. This impairs the learnability 
-of the library in contexts where nano-second efficiency is more important that rich
+of the library in contexts where nano-second efficiency is more important than rich
 functionality, and the need to support also rather resource-constrained run-time
 systems.
 
